@@ -1,0 +1,26 @@
+.banner{
+    background-image: url('https://i.ibb.co/mJVB2rY/login.png');
+    background-repeat: no-repeat;
+    background-color: black;
+    height: 500px;
+    width: 700px;
+}
+.circle{
+    background-color: rgb(97, 94, 94);
+    width: 30px;
+    height: 30px;
+  color: antiquewhite;
+   display: flex;
+   align-items: center;
+   padding: 10px;
+   border-radius: 100%;
+
+}
+
+.container{margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 20px;
+
+}

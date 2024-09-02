@@ -1,0 +1,16 @@
+.form-container{
+    background-color: gray;
+    height: 200px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+.text-area{
+    width: full;
+    overflow-y: scroll;
+}
+.button{
+    margin-top: 20px;
+}
