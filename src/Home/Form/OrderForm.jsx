@@ -6,8 +6,8 @@ const OrderForm = () => {
             <div className="form-container">
                 
                 <div>
-                <label htmlFor="">Select quqntity</label> <br />
-                <input type="number"  placeholder="Select quqntity"/>
+                <label htmlFor="">Select Stock you want</label> <br />
+                <input className="quantity" type="number"  placeholder="Select quqntity"/>
 
                 </div>
                 

@@ -1,15 +1,27 @@
 .form-container{
-    background-color: gray;
-    height: 200px;
-    width: 300px;
-    color: white;
-    text-align: center;
+    background-color: #DEE2E6;
+    height: 460px;
+    width: 345px;
+    
+    /* text-align: center; */
     padding: 5px;
     border-radius: 10px;
+    
+
 }
 .text-area{
-    width: full;
-    overflow-y: scroll;
+    width: 310px;
+    height: 265px;
+    /* overflow-y: scroll; */
+    border-radius: 5px;
+    
+   
+}
+.quantity{
+    width: 305px;
+    padding: 5px;
+    border-radius: 10px;
+    
 }
 .button{
     margin-top: 20px;

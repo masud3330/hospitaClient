@@ -1,5 +1,11 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
 .home-container{
     display: flex;
+    gap: 20px;
     justify-content: space-around;
     padding: 20px;
 }
